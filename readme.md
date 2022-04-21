@@ -15,3 +15,6 @@ Used PHP version is 7.3.9
 - Clone this repository
 - npm install
 - npm run serve
+
+## Video links
+https://www.youtube.com/watch?v=qQqDp9gg2o4
